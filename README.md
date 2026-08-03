@@ -72,6 +72,9 @@ Stripe PaymentSheet checkout, two tier in app subscriptions with backend receipt
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lycaeummusic.musecool)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/gb/app/musecool/id6476098253)
 
+[![Google Play](https://img.shields.io/badge/Google_Play-1F1F1F?style=flat-square&logo=google-play&logoColor=white)](URL)
+[![App Store](https://img.shields.io/badge/App_Store-1F1F1F?style=flat-square&logo=app-store&logoColor=white)](URL)
+
 ***
 
 ## 📦 Personal Projects
