@@ -10,7 +10,16 @@ Seven production applications, five web and two mobile.
 * 🔐 Comfortable with NextAuth, OAuth 2.0, JWT, and native web WebView bridges
 * 📍 Gazipur, Dhaka, Bangladesh. Working remotely with UK and US teams, open to remote frontend roles
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/parvej-sikdar/) · [Portfolio](https://portfolio-for-parvejsikdar.vercel.app/) · [Email](mailto:parvejsikdar.42@gmail.com)
+**Reach me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvej-sikdar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-for-parvejsikdar.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:parvejsikdar.42@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parvej-brur)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvej-sikdar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-for-parvejsikdar.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvejsikdar.42@gmail.com)
 
 ***
 
