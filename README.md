@@ -36,7 +36,8 @@ Closed source work for an EdTech platform operating in the UK and USA.
 
 ### Web
 
-**Smart Practice & Progress Tracker**
+****
+**[Smart Practice & Progress Tracker](https://musecool.com/the-muse)**
 Product site for an AI lesson companion, built on the Next.js App Router with TypeScript and Tailwind CSS. Interactive 3D device prototype, a playable piano synthesised in real time from oscillators and filters, and device aware download flows with conversion tracking.
 
 **[Tutor Onboarding Platform](https://tutor.musecool.com/)**
