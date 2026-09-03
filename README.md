@@ -8,7 +8,7 @@
 * 📱 **React Native** and **Expo** on iOS and Android, including store releases and OTA updates
 * 💳 Full **Stripe** lifecycle, plus Apple IAP and Google Play Billing
 * 🔐 NextAuth, OAuth 2.0, JWT, and native to web WebView bridges
-* 📍 Gazipur, Dhaka, Bangladesh. Working remotely with UK and US teams, open to remote frontend roles
+* 📍 Dhaka, Bangladesh. Working remotely with UK and US teams, open to remote frontend roles
 
 **Reach me:**
 
