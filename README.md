@@ -1,6 +1,6 @@
 # Hi, I'm Parvej Sikdar 👋
 
-**Frontend Engineer** with 4+ years building production web applications with **React, Next.js and TypeScript**, and cross platform mobile apps with **React Native** and **Expo**. Most recently at MuseCool, an EdTech platform in the UK and USA serving 19,000+ students and 4,400+ tutors, where I owned frontend architecture as the sole engineer.
+**Frontend Engineer** with 5+ years building production web applications with **React, Next.js and TypeScript**, and cross platform mobile apps with **React Native** and **Expo**. Most recently at MuseCool, an EdTech platform in the UK and USA serving 19,000+ students and 4,400+ tutors, where I owned frontend architecture as the sole engineer.
 
 - 🌐 **Next.js** with the App Router, Server Components, SSR and ISR, with a focus on Core Web Vitals, page speed and SEO
 - 📱 **React Native** and **Expo** on iOS and Android, including store releases and OTA updates
